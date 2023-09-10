@@ -48,7 +48,8 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     # installed apps
-    'home.apps.HomeConfig'
+    'home.apps.HomeConfig',
+    'products.apps.ProductsConfig',
 ]
 
 MIDDLEWARE = [
