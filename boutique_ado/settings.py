@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     # installed apps
     'home.apps.HomeConfig',
     'products.apps.ProductsConfig',
+    'bag.apps.BagConfig',
 ]
 
 MIDDLEWARE = [
