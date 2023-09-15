@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'home.apps.HomeConfig',
     'products.apps.ProductsConfig',
     'bag.apps.BagConfig',
+    'checkout.apps.CheckoutConfig',
 ]
 
 MIDDLEWARE = [
