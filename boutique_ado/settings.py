@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ci-boutique-465a4012e8f4.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['ci-boutique-465a4012e8f4.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
